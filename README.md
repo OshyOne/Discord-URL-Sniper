@@ -1,4 +1,4 @@
-# 🌀 Discord URL Sniper 80-90ms 🌀
+# 🌀 Discord URL Sniper 🌀
 > **Créateur : [Oshyone](https://github.com/Oshyone)**  
 > Rejoignez notre communauté : [discord.gg/sponsorpro](https://discord.gg/sponsorpro)
 
