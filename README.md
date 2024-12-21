@@ -21,4 +21,4 @@ Avec ce bot, restez toujours en avance et ne manquez plus aucune opportunité. �
 ## 📦 **Installation**
 1. **Clonez le projet :**
    ```bash
-   git clone https://github.com/OshyOne/url-sniper-bot.git
+   git clone https://github.com/OshyOne/Discord-URL-Sniper.git
